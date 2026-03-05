@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1114","登录用例：用户名={0}，密码={1}","","2026-02-07","passed","2026-02-07","TestECShopUI","login_photo","",""
+"","1549","登录用例：用户名={0}，密码={1}","","2026-02-07","passed","2026-02-07","TestECShopUI","login_photo","",""
+"","2102","登录用例：用户名={0}，密码={1}","","2026-02-07","passed","2026-02-07","TestECShopUI","login_photo","",""
+"","1376","登录用例：用户名={0}，密码={1}","","2026-02-07","passed","2026-02-07","TestECShopUI","login_photo","",""
+"","1072","登录用例：用户名={0}，密码={1}","","2026-02-07","passed","2026-02-07","TestECShopUI","login_photo","",""
