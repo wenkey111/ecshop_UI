@@ -1,0 +1,3 @@
+实际提示：- 登录密码不能少于 6 个字符！，预期：登录密码不能为空！
+assert '登录密码不能为空！' in '- 登录密码不能少于 6 个字符！'
+ +  where '- 登录密码不能少于 6 个字符！' = <selenium.webdriver.remote.webelement.WebElement (session="2c1c5515774606f6ae2772b7f229ca27", element="f.9EF26AB9EA45162E8410A08293A31223.d.53D95BAD1A527B0FBDB862487830815C.e.42")>.text
