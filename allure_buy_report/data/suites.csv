@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7294","加购用例：002-搜索简易商品加购","","2026-02-08","passed","2026-02-08","TestECShopUI","buy_photo","",""
+"","6598","加购用例：003-详情商品加购","","2026-02-08","passed","2026-02-08","TestECShopUI","buy_photo","",""
+"","7305","加购用例：001-搜索常规商品加购","","2026-02-08","passed","2026-02-08","TestECShopUI","buy_photo","",""
+"","21321","加购用例：004-搜索不存在商品","","2026-02-08","passed","2026-02-08","TestECShopUI","buy_photo","",""
