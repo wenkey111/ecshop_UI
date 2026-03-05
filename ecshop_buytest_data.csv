@@ -1,0 +1,5 @@
+case_id,goods_desc,search_key,goods_loc,expect_msg
+001,搜索常规商品加购,电磁炉,items_gallery,添加成功！
+002,搜索简易商品加购,护手霜,items_gallery,添加成功！
+003,详情商品加购,,addToCart,添加成功！
+004,搜索不存在商品,枕头,f5,无法搜索到您要找的商品！

@@ -1,0 +1,14 @@
+reg_id,username,email,password,confirm_password,extend_field5,agreement,expect_msg
+1,test123,,,,,true,* 用户名已经存在,请更换！
+2,11111,,,,,true,* 不能为纯数字
+3,1w,,,,,true,- 用户名长度不能少于 3 个字符！
+4,xiaoAn,,,,,true,* 邮箱不能为空！
+5,xiaoAn,1221229@q,,,,true,* 邮箱格式不正确！
+6,xiaoAn,1456@163.com,,,,true,* 邮箱已存在,请更换！
+7,xiaoAn,133@qq.com,,,,true,登录密码不能为空！
+8,xiaoAn,133@qq.com,11,,,true,登录密码不能少于 6 个字符！
+9,xiaoAn,133@qq.com,111111,111222,,true,- 两次输入密码不一致！
+10,xiaoAn,133@qq.com,111111,111111,,true,- 手机          不能为空
+11,xiaoAn,133@qq.com,111111,111111,15,true,- 手机号码不是一个有效号码!
+12,xiaoAn,133@qq.com,111111,111111,1582222444456,true,- 手机号码不是一个有效号码!
+13,xiaoAn,133@qq.com,111111,111111,15822224444,true,用户名 {username} 注册成功!
