@@ -3,7 +3,7 @@
 
 一、项目简介
 
-本项目是基于开源电商系统ECShop的UI自动化测试，采用Selenium+Python+pytest技术栈，实现了对电商核心流程的自动化测试，以UIPO项目demo展示对PO模式的理解与运用。
+本项目是基于开源电商系统ECShop的UI自动化测试，采用Selenium + Python + pytest + Allure技术栈，实现了对电商核心流程的自动化测试，以UIPO项目demo展示对PO模式的理解与运用。
 
 二、说明
 
