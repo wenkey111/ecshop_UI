@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7976","下单用例：4 - 收货人=","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
+"","7528","下单用例：1 - 收货人=","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
+"","8070","下单用例：5 - 收货人=军粮","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
+"","8055","下单用例：6 - 收货人=军粮","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
+"","8678","下单用例：7 - 收货人=军粮","","2026-02-09","failed","2026-02-09","TestECShopUI","order","",""
+"","7692","下单用例：2 - 收货人=","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
+"","8554","下单用例：3 - 收货人=","","2026-02-09","passed","2026-02-09","TestECShopUI","order","",""
